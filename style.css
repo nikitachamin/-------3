@@ -16,9 +16,8 @@ body{
     padding-top: 40px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    gap: 500px;
-    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
 }
 .links{
     display: flex;
